@@ -1,0 +1,22 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+This message was created by Brad Detchevery, braddet@gmail.com as proof that I own the private key
+to this message on Sept 6, 2021 at 11:37AM
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAEBCgAGBQJhNietAAoJEBTf2IjV7seDzYEP/RXoKBm/wuLv8On7xIQHxLSP
+WxxW0EqvyqB+uZ2vVUYjzLRrgi+IFZHLXN4vbnT/l7sWAOh/e/ojBamwBToCGbDr
++It6rI/QkrQIt9zmgpkABozkclYrW0iznt6AYXRAQ9UpO77PdqaM+wR9TNCzLhk/
+aDjeN+hSrCOBO/pyS45YnU2RdjcSSTtSvdx1LekIzYeBFxfZrdzY1UkSGAB7DPMm
+GzuN+q+g5LJiCaUvl4BMDLG/jgNB37hMxwohm7eongQuVmiq51K6zEPKADzdalWv
+2SxXcAx3St4nxSejCOYCywzdrF3oT1UFrnle+4d6wRArm+b3LfBxX+ZcHXjTjv3f
+H5TYvrsk2FOnCCrNbGIBFY5yuw3xIw0zFHZQlYPEfH8/6YYnlA1yODrYdfiRho5b
+BTFnFaVczIJP/eel/hPSFxgxVrxmPb4QUp9nZfazJiZph1CziTmiRqbzyngwhiU6
+z/3emrbRq/v+f8aXkhXYhAiAMNwSD4WS7Xn4VGbluQGobpaVkUmm3N+ZJWUGBvxR
+de2V48stnJCbS4Ndro9QBq+e0TQsEvpFG+6Jw0tQ1/kBxht3Vl0CuekT7Hq/OSTD
+DBlQjBoOF9jDQTEc+JzpT7LN6lmoIdFNCCLnWFrPG2dfjCPm+B1QNIvff7fYZ8Bu
+2gC/M7580CErPdbqDydX
+=5uID
+-----END PGP SIGNATURE-----
